@@ -1,3 +1,1 @@
-{
-  "circulating_supply": 268018587
-}
+circulating_supply: 268018587
